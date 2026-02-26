@@ -15,7 +15,7 @@ Always learning, building small projects, and turning ideas into reproducible no
 - **Other tools:** Git & GitHub, Google Sheets, basic Power BI or similar BI tools  
 
 📫 **Let’s connect:**  
-- GitHub: [@devik35](https://github.com/devik35)  
+- GitHub: [@VICTORKOOME](https://github.com/VICTORKOOME)  
 - LinkedIn: `linkedin.com/in/victor-koome-761b26287`  
 - Email: [victorskoome78@gmail.com](mailto:victorskoome78@gmail.com)
 
